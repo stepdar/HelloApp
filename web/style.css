@@ -1,0 +1,20 @@
+body{
+    color: Green;
+    background-color:bisque;
+    font-family: 'Gamja Flower', cursive;
+}
+p{
+    font-style: oblique;
+    font-size: 80px;
+    text-align-all: center;
+}
+div{
+    position: fixed;
+    top: 20%;
+    left:30%;
+    margin: 500vm;
+}
+span{
+
+    font-style: italic;
+}
